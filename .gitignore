@@ -1,4 +1,6 @@
-./.env
-./dist
-./build
-./node_modules
+/dist/
+/node_modules/
+/.env
+/build/
+/.idea/
+/yarn.lock
